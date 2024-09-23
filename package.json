@@ -1,0 +1,15 @@
+{
+  "name": "using-dayjs",
+  "version": "1.0.0",
+  "description": "whatever",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "author": "Carlos Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  }
+}
